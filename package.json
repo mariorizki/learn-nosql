@@ -5,7 +5,14 @@
   "repository": "https://github.com/mariorizki/learn-nosql.git",
   "author": "Mario Rizki <mariorizki07@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "pouchdb": "^7.0.0"
   }
 }
