@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/mariorizki/learn-nosql.git",
   "author": "Mario Rizki <mariorizki07@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
